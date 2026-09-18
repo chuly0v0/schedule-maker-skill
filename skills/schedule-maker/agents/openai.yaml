@@ -1,0 +1,4 @@
+interface:
+  display_name: "日程长图生成器"
+  short_description: "把自然语言日程变成长图和可继续编辑的网页"
+  default_prompt: "使用 $schedule-maker 将我的自然语言日程整理成可编辑网页和长图。"
